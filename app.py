@@ -1,7 +1,6 @@
 def add(a, b):
     return a + b
-
-print("Hello from Develop")
+print("Hello from Develop and Feature A")
 def multiply(a, b):
     return a * b
 
